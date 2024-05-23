@@ -1,0 +1,26 @@
+form {
+  margin-top: 20px;
+  align-items: center;
+}
+
+label {
+  display: inline;
+  padding: 20px;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+input[type="text"],
+select {
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 200px;
+}
+
+input[type="text"]:focus,
+select:focus {
+  outline: none;
+  border-color: #007bff;
+  box-shadow: 0 0 5px #007bff;
+}

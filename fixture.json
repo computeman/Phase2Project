@@ -1,0 +1,28 @@
+{
+  "fixtures": [
+    {
+      "leagueId": "eng.1",
+      "date": "2023-11-15",
+      "time": "18:00",
+      "homeTeam": "Manchester United",
+      "awayTeam": "Liverpool",
+      "venue": "Old Trafford"
+    },
+    {
+      "leagueId": "eng.1",
+      "date": "2023-11-16",
+      "time": "17:30",
+      "homeTeam": "Chelsea",
+      "awayTeam": "Arsenal",
+      "venue": "Stamford Bridge"
+    },
+    {
+      "leagueId": "esp.1",
+      "date": "2023-11-15",
+      "time": "19:00",
+      "homeTeam": "Barcelona",
+      "awayTeam": "Real Madrid",
+      "venue": "Camp Nou"
+    }
+  ]
+}
